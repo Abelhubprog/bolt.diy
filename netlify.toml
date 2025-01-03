@@ -1,0 +1,4 @@
+[build]
+publish = "build/client"
+[functions]
+directory = "build/server"
